@@ -2,7 +2,7 @@
 Its a basic Atm system made with C language.
 
 # Features :
-In this system you can function above transactions:
+In this system you can function above transactions:<br />
 1.Withdraw <br />
 2.Deposit<br />
 3.Check balance
